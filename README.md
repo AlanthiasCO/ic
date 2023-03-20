@@ -1,6 +1,6 @@
 # Projeto: Mosquito
 
-## Projeto em andamento.
+## Projeto em andamento - README desatualizado.
 
 Resumo: Este projeto visa a utilização de modelos de aprendizagem (ML) para a classificação de áudios de mosquitos. 
 No momento, apenas os espectrogramas estão sendo utilizados para a classificação mas pretendo utilizar outras formas, p.ex: MFCC.
